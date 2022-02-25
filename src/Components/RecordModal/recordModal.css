@@ -1,0 +1,15 @@
+.record-form {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left-side {
+  padding: 10px;
+  width: 45%;
+}
+
+.right-side {
+  padding: 10px;
+  width: 45%;
+}
